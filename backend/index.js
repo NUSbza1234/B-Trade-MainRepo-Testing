@@ -16,7 +16,7 @@ const app = express();
 app.use(bodyParser.json());
 
 const allowedOrigins = [
-    'https://frontend-two-rho-60.vercel.app'
+    'https://frontendtest-henna.vercel.app'
 ];
 
 const corsOptions = {
